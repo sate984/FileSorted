@@ -1,4 +1,4 @@
-#FilerSorterred
+#FilerSorted
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange)
 ![JavaFX](https://img.shields.io/badge/GUI-JavaFX-blue)
@@ -76,4 +76,5 @@ README.md                           # Документация
 GitHub: [(https://github.com/sate984)]
 
 Email: [Blinkblump@gmail.com]
+
 
