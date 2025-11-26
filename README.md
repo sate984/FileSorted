@@ -17,7 +17,7 @@
 
 ---
 
-- [Вклад в проект](/docs/contributing/structure.md)
+- [Вклад в проект](/docs/structure.md)
 
 ---
 
@@ -76,6 +76,7 @@ README.md                           # Документация
 GitHub: [(https://github.com/sate984)]
 
 Email: [Blinkblump@gmail.com]
+
 
 
 
