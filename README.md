@@ -59,7 +59,7 @@ java -jar target/smart-file-sorter.jar
 
 ---
 
-- [Арxитектypа проекта](/docs/participants.md)
+- [Техничекая документация](/docs/participants.md)
 
 ---
 
@@ -84,6 +84,7 @@ README.md                           # Документация
 GitHub: [(https://github.com/sate984)]
 
 Email: [Blinkblump@gmail.com]
+
 
 
 
